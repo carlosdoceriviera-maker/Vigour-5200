@@ -512,7 +512,7 @@ export default function VigourAzul5200() {
               },
               {
                 question: "Como devo tomar?",
-                answer: "Recomendamos 1 cápsula por dia, preferencialmente pela manhã. Siga as instruções da embalagem para melhores resultados."
+                answer: "Recomendamos 1 cápsula ou meia dependendo do organismo da pessoa a 15 a 30 minutos antes da atividade sexual. Tem duração de até 72 horas."
               },
               {
                 question: "E se não funcionar para mim?",
